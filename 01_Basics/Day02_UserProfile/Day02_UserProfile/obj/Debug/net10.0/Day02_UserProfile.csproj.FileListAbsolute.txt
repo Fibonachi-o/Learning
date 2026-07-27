@@ -1,0 +1,14 @@
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\bin\Debug\net10.0\Day02_UserProfile.exe
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\bin\Debug\net10.0\Day02_UserProfile.deps.json
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\bin\Debug\net10.0\Day02_UserProfile.runtimeconfig.json
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\bin\Debug\net10.0\Day02_UserProfile.dll
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\bin\Debug\net10.0\Day02_UserProfile.pdb
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\obj\Debug\net10.0\Day02_UserProfile.GeneratedMSBuildEditorConfig.editorconfig
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\obj\Debug\net10.0\Day02_UserProfile.AssemblyInfoInputs.cache
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\obj\Debug\net10.0\Day02_UserProfile.AssemblyInfo.cs
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\obj\Debug\net10.0\Day02_UserProfile.csproj.CoreCompileInputs.cache
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\obj\Debug\net10.0\Day02_UserProfile.dll
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\obj\Debug\net10.0\refint\Day02_UserProfile.dll
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\obj\Debug\net10.0\Day02_UserProfile.pdb
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\obj\Debug\net10.0\Day02_UserProfile.genruntimeconfig.cache
+I:\VS\repos\Day02_UserProfile\Day02_UserProfile\obj\Debug\net10.0\ref\Day02_UserProfile.dll
