@@ -60,13 +60,3 @@ for (int i = 0; i < word.Length; i++)
 Console.WriteLine("Количество пробелов: " + count);
 */
 
-Console.WriteLine("Введите слово:");
-string word = Console.ReadLine();
-bool newWord = false;
-for (int i = 0; i < word.Length; i++)
-{
-    if (word[i] == ' ')
-    {
-        newWord = true; 
-    }
-}
